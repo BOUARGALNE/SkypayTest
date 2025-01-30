@@ -69,9 +69,6 @@ DATE       | TYPE    | AMOUNT | BALANCE
 2025-01-30 | WITHDRAW| 500    | 500
 ```
 
-## 📜 Licence
-Ce projet est sous licence **MIT**. Vous êtes libre de l'utiliser, de le modifier et de le distribuer.
-
 ## 📩 Contact
-Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter via GitHub ! 🚀
+Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter  ! 🚀
 
