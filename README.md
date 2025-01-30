@@ -26,9 +26,7 @@ bank-kata/
 │   │   │           ├── Transaction.java     # Classe pour gérer les transactions
 │   ├── test/
 │   │   ├── java/
-│   │   │   └── com/
-│   │   │       └── bank/
-│   │   │           ├── AccountTest.java     # Tests unitaires avec JUnit
+│   │   │   ├── AccountTest.java     # Tests unitaires avec JUnit
 │── pom.xml  # Fichier de configuration Maven
 │── README.md  # Documentation du projet
 ```
@@ -36,8 +34,8 @@ bank-kata/
 ## 🚀 Installation et Exécution
 ### 1️⃣ Cloner le dépôt
 ```sh
-git clone https://github.com/votre-utilisateur/bank-kata.git
-cd bank-kata
+git clone https://github.com/BOUARGALNE/SkypayTest.git
+cd SkypayTest
 ```
 ### 2️⃣ Compiler le projet avec Maven
 ```sh
