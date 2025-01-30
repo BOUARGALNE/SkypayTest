@@ -45,10 +45,6 @@ mvn compile
 ```sh
 mvn test
 ```
-### 4️⃣ Exécuter le programme (si une méthode `main` est ajoutée)
-```sh
-java com.bank.Account
-```
 
 ## ✅ Fonctionnalités
 - Ajouter un dépôt sur le compte bancaire
