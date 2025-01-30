@@ -1,4 +1,5 @@
-# Bank Kata - Gestion de compte bancaire
+# 🏦 Bank Kata - Gestion de compte bancaire
+
 
 ## 📌 Description
 Ce projet est une implémentation d'un kata bancaire simple en Java. Il permet de gérer un compte bancaire avec les fonctionnalités suivantes :
@@ -46,10 +47,19 @@ mvn compile
 mvn test
 ```
 
+---
 ## ✅ Fonctionnalités
-- Ajouter un dépôt sur le compte bancaire
-- Effectuer un retrait
-- Afficher l'historique des transactions
+
+### 📥 Dépôt d'argent
+Ajoute un montant au solde du compte bancaire.
+
+### 💸 Retrait d'argent
+Permet de retirer de l'argent du compte, en s'assurant que le solde est suffisant.
+
+### 🧾 Affichage du relevé bancaire
+Affiche un résumé des transactions sous forme de relevé bancaire.
+
+---
 
 ## 📝 Exemples d'utilisation
 ```java
